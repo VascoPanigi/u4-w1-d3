@@ -15,8 +15,6 @@ public class Main {
         System.out.println(areaRec1);
 
         rectangle1.stampTwoRectangles(rectangle1, rectangle2);
-
-
     }
 
 
