@@ -14,7 +14,7 @@ public class Main {
         System.out.println(perimeterRec1);
         System.out.println(areaRec1);
 
-        rectangle1.stampTwoRectangles(rectangle1, rectangle2);
+        Rectangle.stampTwoRectangles(rectangle1, rectangle2);
     }
 
 
